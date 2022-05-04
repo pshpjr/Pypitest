@@ -17,7 +17,7 @@ author_email='pshpjr@naver.com',
 classifiers = ["Programming Language :: Python ::3", "Operation System :: OS.Indepentent",],
 
 url='https://github.com/pshpjr/Pypitest',
-
+download_url = 'https://github.com/pshpjr/Pypitest/releases/tag/v0.1',
 license='MIT',
 
 py_modules=['output'], 
